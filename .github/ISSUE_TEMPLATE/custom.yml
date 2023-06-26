@@ -1,5 +1,5 @@
-name: ⚡ Custom issue template
-description: This is a custom template for fancy issues
+name: ⚡ Submit your feelings
+description: With this form you can submits your feelings
 body:
   - type: input
     attributes:
@@ -12,7 +12,6 @@ body:
     attributes:
       label: What happened?
       description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      placeholder: What led you to this feeling?
     validations:
       required: true
