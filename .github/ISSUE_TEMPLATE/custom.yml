@@ -5,7 +5,7 @@ body:
     attributes:
       label: Tell us your feelings!
       description: You can tell your feelings here
-      placeholer: My feeling is...
+      placeholder: My feeling is...
     validations:
       required: true
   - type: textarea
