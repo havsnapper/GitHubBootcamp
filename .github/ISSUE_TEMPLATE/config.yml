@@ -1,1 +1,5 @@
 blank_issues_enabled: false
+contact_links:
+- name: Discussion for CI/CD deployment
+  url: https://github.com/havsnapper/GitHubBootcamp/discussions/2
+  about: Please discuss this topic
