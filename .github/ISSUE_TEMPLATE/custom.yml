@@ -1,0 +1,18 @@
+name: ⚡ Custom issue template
+description: This is a custom template for fancy issues
+body:
+  - type: input
+    attributes:
+      label: Tell us your feelings!
+      description: You can tell your feelings here
+      placeholer: My feeling is...
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: What happened?
+      description: Also tell us, what did you expect to happen?
+      placeholder: Tell us what you see!
+      value: "A bug happened!"
+    validations:
+      required: true
